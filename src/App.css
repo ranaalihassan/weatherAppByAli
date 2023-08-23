@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wdisplay{
+    background: #19202D;
+    height: auto;
+}
+.mtop{
+    margin-top: -20px;
+}  
+.inpt{
+    width: 280px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    background: #232B39;
+    font-size: 15px;
+    margin: 20px;
+    color:white;
+    /* background-image: url('https://www.searchicon.png'); */
+    /* background-position: 10px 10px;  */
+    /* background-repeat: no-repeat; */
+    padding: 12px 20px 12px 40px;
+}
+.aname{
+    color: white;
+    font-family: Poppins;
+    margin-left: 20px;
+}
+.txtclr{
+    color: white;
+    margin-bottom: 13px;
+}
+.tmsize{
+    font-size: 100px;
+    font-family: Poppins;
+    margin-left: 30px;
+    margin-top: -60px;
+
+}
+.dsize{
+    font-size: 50px;
+    position: relative;
+    top: -38px;
+    left: -16px;
+}
+.wicon{
+    margin-top: -40px;
+    margin-left: -15px;
+}
+.fl{
+    font-family: Space Grotesk;
+font-size: 16px;
+font-weight: 400;
+margin-top: -10px;
+margin-left: 30px;
+color: #7F7F7F;
+
+}
+.cday{
+    font-family: Space Grotesk;
+font-size: 30px;
+font-weight: 400;
+line-height: 38px;
+letter-spacing: 0em;
+margin-left: 30px;
+
+}
+.ctime{
+    color: #7F7F7F;
+}
+.wd{
+    font-family: Space Grotesk;
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 30px;
+}
+.cc{
+    font-family: Space Grotesk;
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+margin-left: 30px;
+
+}
+.line{
+    width: 290px;
+    margin-left: 20px;
+    color: #3B435E;
+
+}
